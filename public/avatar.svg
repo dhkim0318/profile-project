@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="가상의 한국인 남성 캐릭터 프로필 사진">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eff6ff" />
+      <stop offset="100%" stop-color="#dbeafe" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="64" fill="url(#bg)" />
+  <circle cx="256" cy="220" r="156" fill="#f7d6b7" />
+  <path d="M132 206c20-74 80-104 124-104s104 38 124 104" fill="#3b2f2f" />
+  <path d="M152 184c2-16 32-48 104-48s102 32 104 48c0 0 2 20-8 32-10 14-34 18-52 14-22-5-40-20-56-20s-34 15-56 20c-18 4-42 0-52-14-10-12-8-32-8-32z" fill="#1f1211" opacity="0.8" />
+  <ellipse cx="192" cy="240" rx="16" ry="12" fill="#2f1e15" />
+  <ellipse cx="320" cy="240" rx="16" ry="12" fill="#2f1e15" />
+  <path d="M176 264c16 18 52 18 80 0" stroke="#2f1e15" stroke-width="12" fill="none" stroke-linecap="round" />
+  <path d="M232 280c0 10 16 10 16 0" stroke="#2f1e15" stroke-width="12" fill="none" stroke-linecap="round" />
+  <path d="M152 252c16 8 40 12 64 10s44-8 64-18" stroke="#000" stroke-opacity="0.1" stroke-width="8" fill="none" />
+  <path d="M142 196c32-20 90-28 164 0" fill="none" stroke="#3b2f2f" stroke-width="14" stroke-linecap="round" />
+  <path d="M156 178c18-12 42-18 68-18s52 6 68 18" fill="none" stroke="#3b2f2f" stroke-width="10" stroke-linecap="round" />
+  <ellipse cx="188" cy="176" rx="36" ry="18" fill="#f7d6b7" />
+  <ellipse cx="324" cy="176" rx="36" ry="18" fill="#f7d6b7" />
+  <path d="M176 174c12-12 40-12 56 0" fill="none" stroke="#2f1e15" stroke-width="8" stroke-linecap="round" />
+  <path d="M292 174c12-12 40-12 56 0" fill="none" stroke="#2f1e15" stroke-width="8" stroke-linecap="round" />
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#ffffff" stroke-opacity="0.15" stroke-width="16" />
+</svg>
